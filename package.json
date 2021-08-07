@@ -1,0 +1,16 @@
+{
+  "name": "docker-pos-univem",
+  "version": "1.0.0",
+  "description": "docker nodejs image",
+  "author": "Bruno Borin <bruno.borin@univem.edu.br>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
